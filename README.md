@@ -6,9 +6,13 @@
 
 1.1 Use Miagration ,Code Fisrst
 ---------------
- ### Code first ###
+ ### Code First  ###
  I like code first style,it can help me to crate or update table easily.
  So the first thing is to install ef core pakage
+ ### Migration 123 ####
+ 1. Add-Migration AddBlog -StartupProject ef.mvc
+ 2. Script-Migration -StartupProject ef.mvc
+ 3. Update-Database -StartupProject ef.mvc
  
  1.2 Identity AUthtication
  --------------------------
