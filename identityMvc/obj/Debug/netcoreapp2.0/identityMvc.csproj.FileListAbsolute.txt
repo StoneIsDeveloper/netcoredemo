@@ -21,3 +21,15 @@ D:\Projects\NetCore\coreConsole1\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0
 D:\Projects\NetCore\coreConsole1\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.AssemblyInfo.cs
 D:\Projects\NetCore\coreConsole1\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.dll
 D:\Projects\NetCore\coreConsole1\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.pdb
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\bin\Debug\netcoreapp2.0\identityMvc.deps.json
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\bin\Debug\netcoreapp2.0\identityMvc.runtimeconfig.json
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\bin\Debug\netcoreapp2.0\identityMvc.runtimeconfig.dev.json
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\bin\Debug\netcoreapp2.0\identityMvc.dll
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\bin\Debug\netcoreapp2.0\identityMvc.pdb
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.csprojResolveAssemblyReference.cache
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.csproj.CoreCompileInputs.cache
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.AssemblyInfoInputs.cache
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.AssemblyInfo.cs
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.dll
+F:\NetCore\netcoredemo\netcoredemo\identityMvc\obj\Debug\netcoreapp2.0\identityMvc.pdb

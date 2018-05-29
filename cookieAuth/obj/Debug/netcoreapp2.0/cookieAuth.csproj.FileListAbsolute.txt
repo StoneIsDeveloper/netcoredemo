@@ -1,0 +1,11 @@
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\bin\Debug\netcoreapp2.0\cookieAuth.deps.json
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\bin\Debug\netcoreapp2.0\cookieAuth.runtimeconfig.json
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\bin\Debug\netcoreapp2.0\cookieAuth.runtimeconfig.dev.json
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\bin\Debug\netcoreapp2.0\cookieAuth.dll
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\bin\Debug\netcoreapp2.0\cookieAuth.pdb
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\obj\Debug\netcoreapp2.0\cookieAuth.csprojResolveAssemblyReference.cache
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\obj\Debug\netcoreapp2.0\cookieAuth.csproj.CoreCompileInputs.cache
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\obj\Debug\netcoreapp2.0\cookieAuth.AssemblyInfoInputs.cache
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\obj\Debug\netcoreapp2.0\cookieAuth.AssemblyInfo.cs
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\obj\Debug\netcoreapp2.0\cookieAuth.dll
+F:\NetCore\netcoredemo\netcoredemo\cookieAuth\obj\Debug\netcoreapp2.0\cookieAuth.pdb
