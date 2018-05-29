@@ -2,7 +2,7 @@
 
 1 EF in Core
 ===========
-1.1 User Miagration ,Code Fisrst
+1.1 Use Miagration ,Code Fisrst
 ---------------
  ### Code first ###
  I like code first style,it can help me to crate or update table easily.
