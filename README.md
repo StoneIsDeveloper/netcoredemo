@@ -2,7 +2,7 @@
 
 1 EF in Core
 ===========
-### ASP.NET Core 中文文档目录(http://www.cnblogs.com/dotNETCoreSG/p/aspnetcore-index.html) ###
+### ASP.NET Core 中文文档(http://www.cnblogs.com/dotNETCoreSG/p/aspnetcore-index.html) ###
 
 1.1 Use Miagration ,Code Fisrst
 ---------------
